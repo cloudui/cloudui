@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the applications for Bitcamp, the largest hackathon on the east coast, hosted annually at the University of Maryland!
+- 🔭 I’m currently working on the applications for Bitcamp, the largest collegiate hackathon on the east coast, hosted annually at the University of Maryland!
 - 🌱 I’m currently learning Deep Learning with Python. I'm on my fourth course of the Coursera Deep Learning Specialization, and I am reading two ML books-- one by François Chollet and one by Ian Goodfellow and Yoshua Bengio
 
 <!--
