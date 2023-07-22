@@ -10,7 +10,7 @@ My name is Eric, and I am a junior computer engineering student at the Universit
 
 
 ### Specializations
-- Full-Stack Dev: Django/Flask, React/Vue.js
+- Full-Stack Dev: Django/Flask, React/Vue.js, Recently SvelteKit
 - AI + ML: Keras + TensorFlow, OpenAI, LangChain
 - Cloud: Both AWS (Certified) and GCP
 - DevOps: Docker, K8s, Jenkins
